@@ -20,13 +20,7 @@ O projeto está organizado da seguinte forma:
 
 ## Banco de Dados
 
-O schema do banco de dados contém as seguintes tabelas:
-
-- **users**: Armazena informações sobre os usuários.
-- **tests**: Contém detalhes dos simulados.
-- **questions**: Perguntas associadas aos simulados.
-- **answers**: Respostas dos usuários aos simulados.
-
+O schema do banco de dados contém toda as tabelas
 Os dados iniciais são preenchidos através do script de seed.
 
 ### Configuração do Banco de Dados
